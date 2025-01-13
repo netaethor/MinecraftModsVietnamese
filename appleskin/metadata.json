@@ -1,0 +1,16 @@
+{
+    "id": "appleskin",
+    "folder": "appleskin",
+    "name": "AppleSkin",
+    "description": "Cải thiện HUD liên quan đến thực phẩm/độ đói.",
+    "author": "squeek502",
+    "translator": "Zenith",
+    "image": "webp",
+    "versions": {
+        "3.0.6": {
+            "files": "lang/3.0.6.json",
+            "minecraft": ["1.21", "1.21.1"],
+            "platforms": ["Fabric", "Forge"]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "text.autoconfig.appleskin.title": "AppleSkin",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip": "Hiển thị giá trị thực phẩm trong tooltip",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip": "Nếu đúng, sẽ hiển thị giá trị đói và no của thực phẩm trong tooltip khi giữ SHIFT",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways": "Luôn luôn hiển thị giá trị thực phẩm trong tooltip",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip": "Nếu đúng, sẽ hiển thị giá trị đói và no của thực phẩm trong tooltip tự động (không cần giữ SHIFT)",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay": "Hiển thị sự phục hồi đói từ thực phẩm đang cầm",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay.@Tooltip": "Nếu đúng, sẽ hiển thị sự phục hồi đói (và no nếu showSaturationHudOverlay đúng) mà thực phẩm bạn đang cầm sẽ phục hồi",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand": "Hiển thị lớp phủ cho thực phẩm ở tay trái",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand.@Tooltip": "Nếu đúng, kích hoạt lớp phủ đói/no/sức khỏe cho thực phẩm ở tay trái của bạn",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay": "Hiển thị lớp phủ sức khỏe ước tính",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip": "Nếu đúng, sẽ hiển thị sức khỏe ước tính phục hồi từ thực phẩm trên thanh sức khỏe",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "Hiển thị lớp nền mệt mỏi",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "Nếu đúng, sẽ hiển thị mức độ mệt mỏi của bạn dưới dạng thanh tiến độ phía sau thanh đói",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay": "Hiển thị lớp phủ độ no",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip": "Nếu đúng, sẽ hiển thị mức độ no hiện tại của bạn trên thanh đói",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo": "Hiển thị thông tin thực phẩm trong Màn hình Gỡ lỗi",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "Nếu đúng, sẽ hiển thị mức độ đói, no và mệt mỏi của bạn trong Màn hình Gỡ lỗi",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "Hoạt hình biểu tượng HUD theo phong cách Minecraft",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "Nếu đúng, lớp phủ đói/sức khỏe sẽ rung lên để phù hợp với hoạt ảnh biểu tượng của Minecraft",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Alpha tối đa của biểu tượng HUD nhấp nháy",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Giá trị alpha của các biểu tượng nhấp nháy tại điểm hiển thị rõ nhất (1.0 = hoàn toàn không trong suốt, 0.0 = hoàn toàn trong suốt)",
+
+  "modmenu.summaryTranslation.appleskin": "Thêm các cải tiến HUD liên quan đến thực phẩm",
+  "modmenu.descriptionTranslation.appleskin": "Thêm các cải tiến HUD liên quan đến thực phẩm"
+}
