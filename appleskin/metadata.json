@@ -8,7 +8,7 @@
     "image": "webp",
     "versions": {
         "3.0.6": {
-            "files": "lang/3.0.6.json",
+            "files": ["lang/3.0.6.json"],
             "minecraft": ["1.21", "1.21.1"],
             "platforms": ["Fabric", "Forge"]
         }

@@ -8,12 +8,12 @@
     "image": "webp",
     "versions": {
         "4.4.0": {
-            "files": "lang/4.4.0.json",
+            "files": ["lang/4.4.0.json"],
             "minecraft": ["1.21.4"],
             "platforms": ["Fabric", "Forge"]
         },
         "4.3.3": {
-            "files": "lang/4.3.3.json",
+            "files": ["lang/4.3.3.json"],
             "minecraft": ["1.21", "1.20.1"],
             "platforms": ["Fabric", "Forge"]
         }
